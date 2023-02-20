@@ -1,2 +1,2 @@
 # navbar
-various navbar style
+various navbar style.
